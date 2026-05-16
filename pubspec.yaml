@@ -24,7 +24,7 @@ flutter:
   fonts:
     - family: NutUIIcons
       fonts:
-        - asset: assets/fonts/iconfont.ttf
+        - asset: assets/fonts/NutUI.ttf
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
